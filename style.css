@@ -23,40 +23,40 @@ nav ul li{
     margin: 0 15px;
 }
 
-nav UL LI A{
+nav ul li a {
     color: white;
     text-decoration: none;
     font-weight: bold;
 }
 
-main{
+main {
     padding: 20px;
     max-width: 800px;
     margin: auto;
     background-color: white ;
 }
 
-img{
+img {
     width: 200px;
     border-radius: 100px;
     display: block;
-    margin: 20PX auto;
+    margin: 20px auto;
 }
 
-H2{
+h2 {
     color: #006699;
     border-bottom: 2PX solid #006699;
     padding-bottom: 5px;
 }
 
-UL{
-    padding-left: 20PX;
+ul {
+    padding-left: 20px;
 }
 
-footer{
+footer {
     text-align: center;
-    padding: 15PX;
+    padding: 15px;
     background-color: #006699;
     color: white;
-    margin-top: 30PX;
+    margin-top: 30px;
 }
