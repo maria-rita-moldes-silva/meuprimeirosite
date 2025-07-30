@@ -5,45 +5,54 @@ body{
     background-color: #f2f2f2;
     color: #333;
 }
+
 header{
     background-color: #006699;
     color: white;
     padding: 20px;
     text-align: center;
 }
+
 nav ul{
     list-style: none;
     padding: 0;
 }
+
 nav ul li{
     display: inline;
     margin: 0 15px;
 }
+
 nav UL LI A{
     color: white;
     text-decoration: none;
     font-weight: bold;
 }
+
 main{
     padding: 20px;
     max-width: 800px;
     margin: auto;
     background-color: white ;
 }
+
 img{
     width: 200px;
     border-radius: 100px;
     display: block;
     margin: 20PX auto;
 }
+
 H2{
     color: #006699;
     border-bottom: 2PX solid #006699;
     padding-bottom: 5px;
 }
+
 UL{
     padding-left: 20PX;
 }
+
 footer{
     text-align: center;
     padding: 15PX;
